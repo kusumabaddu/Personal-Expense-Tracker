@@ -132,7 +132,7 @@ This project demonstrates practical experience with Python programming, SQL data
 
 **Your Name**
 
-GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+GitHub: [Your GitHub Profile](https://github.com/kusumabaddu)
 
 ---
 
